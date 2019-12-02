@@ -41,24 +41,17 @@ p {
 }
 
 
-
-#mainArea {
-	padding: 0 40px;
-}
-
 #pic {
 	width: 12.5%;
 	float: left;
 	margin-right: 30px;
-
-padding-right: 30px;
+        padding-right: 70px;
 }
 
 
-
 #pic img {
-	width:110px;
-	height:150px;
+	width:140px;
+	height:180px;
 	
 	border-radius: 60%;
 }
@@ -87,9 +80,9 @@ section {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: solid black;
+	color: black;
  text-decoration: underline;
- 
+
 
 
 }
@@ -97,24 +90,19 @@ section {
 #edu {
 	border-right: 1px solid black ;
  height:480px ;
-
 }
-#objj {
-	border-right: 1px solid black ;
- height:47px ;
 
-}
 #skills {
 	border-right: 1px solid black ;
  height:220px ;
 
 }
+
 #certi {
 	border-right: 1px solid black ;
- height:210px ;
-
-
+         height:180px ;
 }
+
 .sectionContent ul{
 font-size: 1.2em;
 }
@@ -122,12 +110,10 @@ font-size: 1.2em;
 .sectionContent h2 {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 1.5em;
-	
-}
+	}
 
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
 	
 }
-
